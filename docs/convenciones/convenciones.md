@@ -1,1 +1,0 @@
-# Convenciones generales de trabajo
